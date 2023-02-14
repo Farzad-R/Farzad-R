@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-here is a glimse of my life. I'm:
+here is a glimpse of my life. I'm:
 - 👩‍💻 currently a PhD student at Carleton University.
 - 📈 th workshop-lead at Carleton AI Society [CAIS](https://carletonai.com/)
 - 🔭 working on developing a physics informed deep learning model for power prediction in wind farms
