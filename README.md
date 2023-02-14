@@ -7,7 +7,7 @@ here is a glimpse of my life. I'm:
 - 🌱 learning the concept behind efficient Transforers and Graph Neural Networks.
 - 👯 looking to collaborate on exciting ML projects
 
-| <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> | Feel free to shoot me a message on [Linkedin](https://www.linkedin.com/in/farzad-roozitalab-173066152/)!
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> Feel free to shoot me a message on [Linkedin](https://www.linkedin.com/in/farzad-roozitalab-173066152/)!
 
 
 <!--
