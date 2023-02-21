@@ -4,7 +4,7 @@ Here is a glimpse of my life. I'm:
 - 👩‍💻 a PhD student at Carleton University
 - 📈 the workshop-lead at Carleton AI Society [CAIS](https://carletonai.com/)
 - 🔭 developing a physics informed deep learning model for power prediction in wind farms
-- 🌱 learning the concept behind efficient Transforers and Graph Neural Networks
+- 🌱 learning the concept behind efficient Transformers and Graph Neural Networks
 - 👯 looking to collaborate on exciting ML projects
 
 Feel free to shoot me a message on [Linkedin](https://www.linkedin.com/in/farzad-roozitalab-173066152/)!
