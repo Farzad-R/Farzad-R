@@ -7,9 +7,9 @@ Here is a glimpse of my life. I'm:
 - 🌱 learning the concept behind differrent Transformers and Graph Neural Networks
 - 👯 looking to collaborate on exciting ML projects
 
-Personal [website] (https://farzad-r.github.io/) </br>
-Feel free to shoot me a message on [Linkedin](https://www.linkedin.com/in/farzad-roozitalab-173066152/)!
 
+Feel free to shoot me a message on [Linkedin](https://www.linkedin.com/in/farzad-roozitalab-173066152/)!
+Here is my personal [website](https://farzad-r.github.io/). </br>
 
 <!--
 **Farzad-R/Farzad-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
