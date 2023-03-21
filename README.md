@@ -8,8 +8,7 @@ Here is a glimpse of my life. I'm:
 - 👯 looking to collaborate on exciting ML projects
 
 
-Feel free to shoot me a message on [Linkedin](https://www.linkedin.com/in/farzad-roozitalab-173066152/)!</br>
-And here is my personal [website](https://farzad-r.github.io/). 
+Feel free to shoot me a message!
 
 <!--
 **Farzad-R/Farzad-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
