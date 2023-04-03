@@ -3,8 +3,10 @@
 Here is a glimpse of my life. I'm:
 - 👩‍💻 a PhD student at Carleton University
 - 📈 the workshop-lead at Carleton AI Society [CAIS](https://carletonai.com/)
-- 🔭 developing a physics informed deep learning model for power prediction in wind farms
+- 🔭 working on long-term forecasting of the power output of windfarms
 - 🌱 learning the concept behind differrent Transformers and Graph Neural Networks
+- ⚡ the presenter at [AI RoundTable](https://www.youtube.com/@airoundtable)
+- weekly meetings (a group created to have weekly meeetings discussing the new advancements in AI)
 - 👯 looking to collaborate on exciting ML projects
 
 
