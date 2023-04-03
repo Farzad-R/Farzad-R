@@ -5,7 +5,7 @@ Here is a glimpse of my life. I'm:
 - 📈 the workshop-lead at Carleton AI Society [CAIS](https://carletonai.com/)
 - 🔭 working on long-term forecasting of the power output of windfarms
 - 🌱 learning the concept behind differrent Transformers and Graph Neural Networks
-- ⚡ the presenter at [AI RoundTable](https://www.youtube.com/@airoundtable) weekly meetings (a group created to have weekly meeetings discussing the new advancements in AI)
+- ⚡ the owner and presenter at [AI RoundTable](https://www.youtube.com/@airoundtable) weekly meetings (a group created to have weekly meeetings discussing the new advancements in AI)
 - 👯 looking to collaborate on exciting ML projects
 
 
