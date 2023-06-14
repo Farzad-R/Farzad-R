@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Here is a glimpse of my life. I'm:
-- 👩‍💻 Last year MSc student at Carleton University
+- 👩‍💻 Last year PhD candidate at Carleton University
 - 📈 The workshop-lead at Carleton AI Society [CAIS](https://carletonai.com/)
 - 🔭 Working on long-term forecasting of the power output of wind farms
 - 🌱 Learning the concept behind different Transformers and Graph Neural Networks
