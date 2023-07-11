@@ -2,9 +2,8 @@
 
 Here is a glimpse of my life. I'm:
 - 👩‍💻 An AI enthusiast
-- 📈 The workshop-lead at Carleton AI Society [CAIS](https://carletonai.com/)
+- 📈 The Machine Learning workshop lead at Carleton AI Society [CAIS](https://carletonai.com/)
 - 🔭 Working on long-term forecasting of the power output of wind farms
-- 🌱 Learning the concept behind different Transformers and Graph Neural Networks
 - ⚡ The owner and presenter at [AI RoundTable](https://www.youtube.com/@airoundtable) weekly meetings (a group created to have weekly meetings discussing the new advancements in AI)
 - 👯 Looking to collaborate on exciting ML projects
 
