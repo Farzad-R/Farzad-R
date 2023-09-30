@@ -1,14 +1,9 @@
-### Hi there 👋
+### Hi, I am Farzad👋
 
-Here is a glimpse of my life. I'm:
 - 👩‍💻 An AI enthusiast
-- 📈 The Machine Learning workshop lead at Carleton AI Society [CAIS](https://carletonai.com/)
-- 🔭 Working on long-term forecasting of the power output of wind farms
+- 📈 An AI engineer and Data Scientist at Tomlinson Group
 - ⚡ The owner and presenter at [AI RoundTable](https://www.youtube.com/@airoundtable) weekly meetings (a group created to have weekly meetings discussing the new advancements in AI)
-- 👯 Looking to collaborate on exciting ML projects
-
-
-Feel free to shoot me a message!
+- 👯 Love to connect with people
 
 <!--
 **Farzad-R/Farzad-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
