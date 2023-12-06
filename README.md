@@ -3,7 +3,7 @@
 - 👩‍💻 An AI enthusiast
 - 📈 An AI specialist and Data Scientist at Tomlinson Group
 - ⚡ The owner and presenter at [AI RoundTable](https://www.youtube.com/@airoundtable) weekly meetings (a group created to have weekly meetings discussing the new advancements in AI)
-- 👯 Love to connect with people
+- 📫 Love to connect with people
 
 <!--
 **Farzad-R/Farzad-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
