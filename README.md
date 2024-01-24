@@ -2,12 +2,9 @@
 
 - 👩‍💻 An AI enthusiast
 - 📈 AI specialist and Data Scientist at Tomlinson Group
-- ⚡ The owner and presenter at [AI RoundTable](https://www.youtube.com/@airoundtable) weekly meetings (a group created to have weekly meetings discussing the new advancements in AI)
-- 📫 Love to have a coffee talk and exchange ideas
-
+- ⚡ My YouTube channel: [AI RoundTable](https://www.youtube.com/@airoundtable).
+- 📫 My personal website: [Link](https://farzad-r.github.io/)
 <!--
-**Farzad-R/Farzad-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
