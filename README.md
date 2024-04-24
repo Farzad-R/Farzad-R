@@ -1,4 +1,4 @@
-### I am an AI enthusiast and specialist and I design industrial AI applications.
+### I am an AI specialist and I design industrial AI applications.
 - ⚡ My YouTube channel: [AI RoundTable](https://www.youtube.com/@airoundtable).
 - 📫 My personal website: [Link](https://farzad-r.github.io/)
 <!--
