@@ -1,6 +1,10 @@
 ### I design industrial AI applications.
 - ⚡ My YouTube channel: [AI RoundTable](https://www.youtube.com/@airoundtable).
-- 📫 My personal website: [Link](https://farzad-r.github.io/)
+- 📫 My website: [Link](https://farzad-r.github.io/)
+- 💬 love connecting with people
+
+[![Follow](https://img.shields.io/twitter/follow/Farzad_Rzt?style=social)](https://twitter.com/intent/follow?screen_name=Farzad_Rzt)    <a href="https://www.linkedin.com/in/farzad-roozitalab/"><img src=https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg height="20px"/><a/>
+- 
 <!--
 Here are some ideas to get you started:
 
