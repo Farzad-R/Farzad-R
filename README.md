@@ -1,6 +1,6 @@
 <h1 align="left">Welcome to my GitHub,</h1>
 
-I am an AI Specialist and Data Scientist. I also design open-source AI projects in my spare time and explain them in my YouTube channel.
+I love to design and train Deep Learning models and develope large language model (LLM) agents to enhance task efficiency. In addition, I work onopen-source AI projects and explain them in my YouTube channel in my spare time.
 
 <p align="left">
 <a href="https://www.linkedin.com/in/farzad-roozitalab/" target="blank">
