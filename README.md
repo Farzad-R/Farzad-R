@@ -1,10 +1,18 @@
-### I design industrial AI applications.
-- ⚡ My YouTube channel: [AI RoundTable](https://www.youtube.com/@airoundtable).
-- 📫 My website: [Link](https://farzad-r.github.io/)
-- 💬 love connecting with people
+<h1 align="left">Welcome to my GitHub,</h1>
 
-[![Follow](https://img.shields.io/twitter/follow/Farzad_Rzt?style=social)](https://twitter.com/intent/follow?screen_name=Farzad_Rzt)    <a href="https://www.linkedin.com/in/farzad-roozitalab/"><img src=https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg height="20px"/><a/>
-- 
+I am an AI Specialist and Data Scientist. I also design open-source AI projects in my spare time and explain them in my YouTube channel.
+
+<p align="left">
+<a href="https://www.linkedin.com/in/farzad-roozitalab/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farzad_rzt" height="25" width="35" /></a>
+<a href="https://www.youtube.com/@airoundtable" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="farzad" height="30" width="40" />
+<a href="https://twitter.com/intent/follow?screen_name=Farzad_Rzt" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="farzad" height="30" width="40" /></a>
+
+[![Website](https://img.shields.io/website?down_color=blue&down_message=blue&up_color=yellow&up_message=my%20resume&url=https%3A%2F%2Falibigdeli.github.io%2F)](https://farzad-r.github.io/)
+</p>
+
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Farzad-R&show_icons=true&theme=radical&include_all_commits=true&count_private=true) -->
+ 
 <!--
 Here are some ideas to get you started:
 
