@@ -1,6 +1,6 @@
 <h1 align="left">Welcome to my GitHub!</h1>
 
-I love to design and train Deep Learning models and develop systems with LLM agents to enhance task efficiency. In addition, I work on open-source projects and explain them in my YouTube channel in my spare time.
+I build deep learning models and agentic systems, and share project explanations on my YouTube channel.
 
 <p align="left">
 <a href="https://www.linkedin.com/in/farzad-roozitalab/" target="blank">
