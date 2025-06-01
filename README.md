@@ -8,7 +8,7 @@ I build deep learning models and agentic systems, and share project explanations
 <a href="https://www.youtube.com/@airoundtable" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="farzad" height="30" width="40" />
 <a href="https://twitter.com/intent/follow?screen_name=Farzad_Rzt" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="farzad" height="30" width="40" /></a>
 
-[![Website](https://img.shields.io/website?down_color=blue&down_message=blue&up_color=yellow&up_message=my%20resume&url=https%3A%2F%2Falibigdeli.github.io%2F)](https://farzad-r.github.io/)
+[![Portfolio](https://img.shields.io/website?down_color=red&down_message=offline&up_color=yellow&up_message=Portfolio&url=https%3A%2F%2Falibigdeli.github.io%2F)](https://alibigdeli.github.io/)
 </p>
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Farzad-R&show_icons=true&theme=radical&include_all_commits=true&count_private=true) -->
